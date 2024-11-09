@@ -1,9 +1,7 @@
 # First-sites
-Hello frd, this is my first Project .
-In this project i just make login/signup functionality.
-
-
-
+Hello frd, this is my first Project . <br>
+In this project i just make login/signup functionality. <br>
+In this project i learn all this Topics -->
 # what i use
   ## Backend
     1. Mongoos
